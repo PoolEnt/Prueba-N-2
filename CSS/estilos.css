@@ -29,6 +29,9 @@ header a{
 #carta h2{
     font-size: 500%;
 }
+ #carta p{
+    text-align: center
+ }
 
 #bnt{
     background-color: #efdfbb;
@@ -44,6 +47,7 @@ header a{
 
 .accordion-body p{
     text-align: center;
+    font-weight: bold;
 }
 
 #sandwiches{
@@ -80,8 +84,16 @@ header a{
 }
 
 
+
+#separacion{
+    background-color: #722f37;
+    border-radius: 20px;
+    text-align: center;
+}
+
 #nuesta-historia{
-    margin-top: 350px;
+    margin-top: 150px;
+    margin-bottom: 150px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
@@ -98,24 +110,37 @@ header a{
 
 
 #sucursales{
-    margin-top: 250px;
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 #sucursales h2{
-    margin-bottom: 100px;
     font-family: 'Times New Roman', Times, serif;
 }
 
+#sucursales h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sucursales p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom:150px;
+}
 
 #formulario-contacto{
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
     color: black;
     max-width: 400px;
     margin: 20px auto;
-    margin-top: 300px;
     background-color:  #722f37;
     padding: 20px;
     border-radius: 8px;
+}
+
+#formulario-contacto h1{
+    text-decoration: underline;
 }
 
 label{
