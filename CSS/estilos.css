@@ -6,6 +6,9 @@ header{
     background-color: #722f37;
     color: black;
     font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 header a{
@@ -98,6 +101,9 @@ header a{
     text-align: center;
 }
 
+#fotohistoria{
+    border-radius: 20px;
+}
 
 
 .card{
@@ -126,6 +132,11 @@ header a{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     margin-bottom:150px;
+}
+
+#sucursales img{
+    border-radius: 20px;
+    width: 40%;
 }
 
 #formulario-contacto{
