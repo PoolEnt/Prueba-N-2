@@ -1,0 +1,140 @@
+body{
+    background-color: #efdfbb;
+}
+
+header{
+    background-color: #722f37;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header a{
+    margin-inline: 170px;  
+}
+
+
+
+#navbarNav{
+    justify-content: center;
+    background-color: #efdfbb
+}
+
+
+
+#carta{
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#carta h2{
+    font-size: 500%;
+}
+
+#bnt{
+    background-color: #efdfbb;
+    border-style: ridge;
+    border-width: 5px;
+    border-color: #722f37;
+}
+
+.accordion-body{
+    background-color: #722f37;
+    color: black
+}
+
+.accordion-body p{
+    text-align: center;
+}
+
+#sandwiches{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sandwiches img{
+    border-radius: 200px;
+}
+
+
+
+#platos{
+    margin-bottom: 150px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#platos img{
+    border-radius: 100px;
+}
+
+
+
+#bebestibles{
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 150px;
+}
+
+#postres{
+    margin-bottom: 150px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#nuesta-historia{
+    margin-top: 350px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+
+.card{
+    background-color: #722f37;
+    color: black;
+    border-bottom-left-radius: 30px;
+    border-color: #722f37;
+    border-width: 3px
+}
+
+
+#sucursales{
+    margin-top: 250px;
+}
+
+#sucursales h2{
+    margin-bottom: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#formulario-contacto{
+    text-align: center;
+    color: black;
+    max-width: 400px;
+    margin: 20px auto;
+    margin-top: 300px;
+    background-color:  #722f37;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: #722f37;
+    text-align: center;
+    color: black;
+    padding: 10px
+}
+
+.redes-sociales img{
+    width: 30px;
+    margin: 10px;
+}
+
+
+
+
